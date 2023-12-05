@@ -36,3 +36,9 @@ The nodes will create a distance graph matrix, three types of shortest path meth
 Distribution of Responsibility and Roles: 
 
 Each member will be required to spend about 15 hours working on this project. Moving through this project a list of what needs to get done will be created, and team members will put their names for the task to complete. Sebastian and Ethan will mainly work on creating the code for the shortest path methods. Christian will mainly work on the randomized creation of the distance graph matrix. Semion will assist on the shortest path methods, but mainly focus on finding a way to visually create the project and other features such as choosing the desired nodes, calculating run time, etc.
+
+References: 
+
+https://www.geeksforgeeks.org/what-are-the-differences-between-bellman-fords-and-dijkstras-algorithms/
+https://www.shiksha.com/online-courses/articles/about-floyd-warshall-algorithm/
+
